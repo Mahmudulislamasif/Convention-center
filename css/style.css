@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.headings
+{
+    margin: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+main
+{
+    font-family: 'Poppins', sans-serif;
+}
+.check_icon
+{
+    margin-right: 2px;
+}
+footer p
+{
+    color:white;
+}
+footer h1
+{
+    color:white;
+}
