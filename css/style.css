@@ -4,9 +4,13 @@
 {
     font-family: 'Poppins', sans-serif;
 }
+.corousel-item
+{
+    height: 32rem;
+}
 .headings
 {
-    margin: 50px;
+    margin: 20px;
     font-family: 'Poppins', sans-serif;
 }
 main
